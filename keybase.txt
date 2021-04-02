@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/nicklasmyren
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nicklasmyren.github.io
+  * I am nicklasmyren (https://keybase.io/nicklasmyren) on keybase.
+  * I have a public key with fingerprint D06D 3057 0E9C C166 6045  6A0E D817 F97E 48E1 8B9C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f85dcb8b7a877e5f54c6cd6f6c116a9b5e990b012fe2f0cce7ab08f3a98984b20a",
+      "fingerprint": "d06d30570e9cc16660456a0ed817f97e48e18b9c",
+      "host": "keybase.io",
+      "key_id": "d817f97e48e18b9c",
+      "kid": "010151b7770268753cd31d29a82c972a2fe6f980b0056a06b165342fa79f5592d9210a",
+      "uid": "49f8e376612a681aeed4c586e4ab6a19",
+      "username": "nicklasmyren"
+    },
+    "service": {
+      "hostname": "nicklasmyren.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1617395130,
+  "expire_in": 157680000,
+  "prev": "6d134c361d0d54c7085366c5fe7fc04c42fee3f65a48cdeb6572d15ada864615",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN0AnicbZRtTBxFGMeP4yWI4SVFAgVJy1orJVfc2ZfZ3aO9+FLFplUUCgVDAruz
+s8cWuDvuDloKHAUaUZpTDIUai6ixHDFKQZqiVaRSRLAVq9YUAqS0hJLTElMrYLBR
+3EX7rfNlMjO/5//8n2cm83V4oCEsYDJ21fPcjWPtAZeGOssNhdaaz6sIyS5XEuYq
+ohivT7hExi53QbEqE2aCBBSp8KyMJF7iRJ7jMKuwDIJIhgpEAEBRkFgsCKSkkQqm
+FBIhzIkSySu0KPACz0gUKRImQlFtVux0OFWbW5OVSSjTJMuRWEAIQAhJhoUiiWUe
+cIrAYYbHgJcEpAUW2V16hGZOEl04VbVre9qiYN3effh7vknAAonjOJKCPMfSSKaB
+TAkiTyGBo0TNK1QEXrNN6omhBCBLM5QicoLCsgIlCxRY912+LscICo9pDkJAiZAH
+IsYyg1geYkaUoAgEHXRhp00sxRptU1FxiegqrXRiG1FjIrSTChVhvbl6NfehUq2q
+u6hc+q86h9PutiN7icYUud0Ol1nXcFc69KCDWCr4X65AUm2y1lUtogI7XardRpiB
+RiK3qusDCDhaYAFNmgh8yKE6cYGqEywHeVIbeh5coUlCGdAMoiGQSVm7Wo7kWRpC
+xCqYUxDJIK0rGNMKZEWGRzKWIMtRMmBFWeQhAwFL6AWW2eyEGWo2Rasm6VKtNtFd
+7sREzYWh/CBDQJghJNiovzZD2ANR995g3GeRa08EPbppZA191VrLtD1/2zfa8FL/
+4GTijIdJmvW7zs9NLOQn/GTqKn1s7kdkisFNi+eqUm/RHcvV3oU0Y40aZrrY7309
+c7jvyQs9b6G4499FJMx3+1oWgYXrDWjfSTrI9yPjE8+0/B396ljoXcKf1bRjKmim
+jkpPuF5254T9ckxazdHm3ZcduXviE4M3bmGVhls5+/7q2Haq84MrLxgOlP7xhudh
+3NGXHt/YNV+37O6eyDq2ci362R1z31afXjq7127cmuse/X1tfMo8AMyhT0dOH7oZ
+/oWnomo6UTqwOTRiImrVL79Z1Ju31n93n3/JnzEZfDTzo+FoGGsZHSzMPnv44MuW
+aasvt7B5266skz15rdvTfp5qtpz8piGlE/0acuq6NPCLpaIrZ7b/Ljw8bjnX3W/r
+wz1BP1CbmtK9Rm9sWeynRun48vhgYF7yavX5sZj3Ut6uHLtRlpNOTs6F1IZfm39k
+5bY8svvBoSSTb/OHnuqWpcdHm2KP7Ir6+GJyY25r/GKoG0dMtnnfuTnQdqc9bnTC
+EPTnhsFP6Km0I70bG61bvTll3uEeYwv9TP1rV/5ZLd47pHq2iA9l1+1szIhaHlBe
+yeq8emb/Vd9pa/L3l2D6u19mZ56oFWeSqn6rzWdNTXu0b2R/XP1TSZ7mEcOLJQuz
+fl/YLDu4vLI9YkNyXYYpMKX+Xwj8w7Y=
+=3aki
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicklasmyren
+
+==================================================================
